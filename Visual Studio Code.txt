@@ -1,0 +1,86 @@
+Visual Studio Code.
+Extensiónes.
+
+Descargar de forma portable .zip.
+Crear una carpeta 'data', luego dento de ella una carpeta 'user-data'.
+Luego crear una carpeta 'extensiones'.
+- Spanish Language VSCode.
+- Live Server.
+- Prettier.
+- ESlint.
+
+Shift + Alt + flecha hacia arriba o abajo, para duplicar lineas de código en HTML.
+Alt + flecha arriba o abajo, para mover lineas de código.
+Alt + Shift + A, para comentar lineas de codigo en HTML.
+Ctrl + Ñ, abre la consola del VSCode.
+Ctrl + F, para buscar.
+Ctrl + H, para reemplazar una palabra por otra.
+Alt + click, para autocompletar varias lineas, para salir la tecla 'ESC'.
+Shift + Tab, para minimizar indentación.
+
+Emmet.io
+
+Terminal
+pwd, (pwd - w, pwd --help) nos indica la ruta donde estamos parado. 
+
+CMD, PowerShell, Software: es un subsistema de linux, git Bash Here.
+
+Whoami, nos indica el nombre de usuario (desktop-eub0e82\usuario).
+
+CommandLineInterface VS GraphicUserInterface
+Help, ayuda de terminal, tiene varias options que nos ayuda para trabajar en consola.
+ls, (ls -l, ls -a)listar lo que tenemos en nuestra carpeta.
+cd,(cd -, cd ., cd .., cd /, cd c, cd ../..)cambiar de directorio.
+cd 'Program Files', cuando las carpetas tienen espacios en blancos, poner el nombre entre comillas.
+touch, crear archivo 'hola.txt'.
+eco 'Hola, soy Emmanuel' > saludo.txt, crear archivo con contenido.
+cat saludo.txt, podemos ver el contenido.
+mkdir, crear carpetas.
+rmdir 'assets', eleminar carpetas vacias.
+rm 'hola.txt', eliminar archivos.
+rm -r, elimina carpetas con archivos. 
+rm -rf, rmeliminar carpetas de forma dorzada. (rm --help).
+mv 'hola.txt assets' , mover archivo a otra carpeta.
+mv 'hola.txt script.txt', po demos renombrar el nombre a un archivo.
+cp hola.txt ../, copiar un archivo y mover a otra carpeta.
+cp hola.txt ../nuevo.txt, copiar el contenido del archivo en un nuevo archivo.
+cp -r js css, copiar carpeta con contenido a otra carpeta.
+find, (find j*) buscar archivos o varios archivos que comiencen con 'j', por ejemplo.
+ps,listar proceso de nuestra pc.
+kill + id, matar el proceso.
+nano(ctrl + x, matar el proceso), vim.
+code + ruta, podemos abrir carpetas.
+
+Comandos alias
+alias , crear comandos con alias, por ejemplo alias hi = 'touch hola.txt'.
+unalias hi, eliminar comandos.
+
+Terminal de GIT
+ls -a, podemos ver los archivos ocultos 'gitignore'.
+git checkout 6095e16, el comando más el id del commit, volvemos al cambio anterior.
+
+CSS FLEXBOX
+https://caniuse.com/
+
+PAGINAS PARA MAQUETAR
+Google Fonts...Fuente de letras.
+
+1) https://monograph.com/
+2) https://annearte.mitiendanube.com/productos/
+3) https://balcon.com.ar/
+4) https://www.coca-cola.com/
+5) https://www.etq-amsterdam.com/
+6) https://www.esenzzia.com/
+
+SCRUM
+Trabajo en IT.  
+https://gist.github.com/parmentf/035de27d6ed1dce0b36a
+
+https://midu.dev/
+https://codigofacilito.com/
+
+PyScript...
+
+
+  
+
