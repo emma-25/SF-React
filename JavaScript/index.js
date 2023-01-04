@@ -17,8 +17,13 @@ const lengthOfFirstArray = myFirstArray.length;
 console.log(lengthOfFirstArray);
 console.log(myFirstArray.length);
 
-const myFistObject = {
+const myFirstObject = {
     name: 'Juan',
     age: 30,
-}
+};
+
+console.log(typeof myFirstArray);
+console.log(Array.isArray(myFirstArray)); //True or false
+console.log(typeof myFirstObject);
+
 
